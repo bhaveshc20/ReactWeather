@@ -6,7 +6,7 @@ var Nav = React.createClass ({
   onSearch: function(e) {
     e.preventDefault();
     alert('Not yet wired up');
-  },
+  }, 
   render: function(){
     return(
       <div className="top-bar">
